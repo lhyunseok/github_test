@@ -99,16 +99,30 @@
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>asdfasdf</element>
+            <element>new_field_1</element>
             <position>7</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-01 10:55:58</sys_created_on>
-            <sys_id>4d6b9aa193d102104d95f55a7bba1014</sys_id>
+            <sys_created_by>hhkim</sys_created_by>
+            <sys_created_on>2024-04-01 10:56:58</sys_created_on>
+            <sys_id>739bd62547d94610d254bce5536d43f4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_902337_github_te_githubtest" sys_domain="global" view="Default view">324fb961935102104d95f55a7bba1012</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-01 10:55:58</sys_updated_on>
+            <sys_updated_by>hhkim</sys_updated_by>
+            <sys_updated_on>2024-04-01 10:56:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>new_field_2</element>
+            <position>8</position>
+            <sys_created_by>hhkim</sys_created_by>
+            <sys_created_on>2024-04-01 10:57:11</sys_created_on>
+            <sys_id>76ab5a2547d94610d254bce5536d43b2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_902337_github_te_githubtest" sys_domain="global" view="Default view">324fb961935102104d95f55a7bba1012</sys_ui_section>
+            <sys_updated_by>hhkim</sys_updated_by>
+            <sys_updated_on>2024-04-01 10:57:11</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

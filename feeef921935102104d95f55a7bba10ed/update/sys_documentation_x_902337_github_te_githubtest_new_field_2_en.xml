@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="github_test" label="Github hh" language="en" table="x_902337_github_te_githubtest">
+    <sys_documentation element="new_field_2" label="New Field 2" language="en" table="x_902337_github_te_githubtest">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>github_test</element>
+            <element>new_field_2</element>
             <help/>
             <hint/>
-            <label>Github hh</label>
+            <label>New Field 2</label>
             <language>en</language>
             <name>x_902337_github_te_githubtest</name>
-            <plural>Github hhs</plural>
+            <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-01 08:52:19</sys_created_on>
+            <sys_created_by>hhkim</sys_created_by>
+            <sys_created_on>2024-04-01 10:57:11</sys_created_on>
             <sys_mod_count>3</sys_mod_count>
-            <sys_name>Github hh</sys_name>
+            <sys_name>New Field 2</sys_name>
             <sys_package display_value="github test" source="x_902337_github_te">feeef921935102104d95f55a7bba10ed</sys_package>
             <sys_policy/>
             <sys_scope display_value="github test">feeef921935102104d95f55a7bba10ed</sys_scope>
-            <sys_update_name>sys_documentation_x_902337_github_te_githubtest_github_test_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_902337_github_te_githubtest_new_field_2_en</sys_update_name>
             <sys_updated_by>hhkim</sys_updated_by>
-            <sys_updated_on>2024-04-01 10:56:53</sys_updated_on>
+            <sys_updated_on>2024-04-01 10:57:11</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
