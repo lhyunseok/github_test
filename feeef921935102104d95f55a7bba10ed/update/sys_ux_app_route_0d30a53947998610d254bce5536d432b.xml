@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="git test 2">3c20e13947998610d254bce5536d4345</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>dev5</name>
+        <optional_parameters/>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>dev5</route_type>
+        <screen_type display_value="dev5">4130a53947998610d254bce5536d4329</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>hhkim</sys_created_by>
+        <sys_created_on>2024-04-02 01:15:51</sys_created_on>
+        <sys_id>0d30a53947998610d254bce5536d432b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>dev5</sys_name>
+        <sys_package display_value="github test" source="x_902337_github_te">feeef921935102104d95f55a7bba10ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="github test">feeef921935102104d95f55a7bba10ed</sys_scope>
+        <sys_update_name>sys_ux_app_route_0d30a53947998610d254bce5536d432b</sys_update_name>
+        <sys_updated_by>hhkim</sys_updated_by>
+        <sys_updated_on>2024-04-02 01:15:51</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=0d30a53947998610d254bce5536d432b"/>
+</record_update>
