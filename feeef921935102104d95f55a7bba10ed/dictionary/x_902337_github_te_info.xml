@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="35e8de2147d94610d254bce5536d431a" label="info" max_length="40" name="x_902337_github_te_info" type="collection">
+        <element label="date" max_length="40" name="date" type="glide_date"/>
+        <element label="New Field B" max_length="40" name="new_field_b" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>
